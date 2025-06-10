@@ -31,6 +31,6 @@ If you are developing a production application, we recommend updating the config
 
 
 ## Links
-https://www.youtube.com/watch?v=SqcY0GlETPk
-https://vitejs.dev/guide/
+https://www.youtube.com/watch?v=SqcY0GlETPk <br>
+https://vitejs.dev/guide/ <br>
 https://babeljs.io/rep
